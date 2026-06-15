@@ -59,10 +59,11 @@ p {
 }
 
 h1 {
-  margin-bottom: 16px;
-  font-size: clamp(2.2rem, 5vw, 4.2rem);
-  line-height: 1.02;
+  margin-bottom: 14px;
+  font-size: clamp(2rem, 3.2vw, 2.75rem);
+  line-height: 1.12;
   font-weight: 700;
+  white-space: nowrap;
 }
 
 h2 {
@@ -119,6 +120,9 @@ h3 {
 
 .news-list,
 .education-list,
+.experience-list,
+.teaching-list,
+.awards-list,
 .compact-list {
   margin: 0;
   padding-left: 1.2rem;
@@ -126,6 +130,9 @@ h3 {
 
 .news-list li + li,
 .education-list li + li,
+.experience-list li + li,
+.teaching-list li + li,
+.awards-list li + li,
 .compact-list li + li {
   margin-top: 10px;
 }
@@ -217,6 +224,10 @@ time {
 
   .portrait img {
     width: 148px;
+  }
+
+  h1 {
+    white-space: normal;
   }
 
   .project-grid {
