@@ -44,7 +44,7 @@ a:focus {
 
 .intro {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 210px;
+  grid-template-columns: minmax(0, 1fr) 170px;
   gap: 48px;
   align-items: start;
   padding-bottom: 34px;
@@ -101,11 +101,9 @@ h3 {
 
 .portrait img {
   display: block;
-  width: 210px;
+  width: 170px;
   max-width: 100%;
   height: auto;
-  border: 1px solid var(--line);
-  background: var(--panel);
 }
 
 .section {
@@ -222,7 +220,7 @@ time {
   }
 
   .portrait img {
-    width: 148px;
+    width: 132px;
   }
 
   h1 {
