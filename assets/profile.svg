@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-labelledby="title desc">
+  <title id="title">Profile placeholder</title>
+  <desc id="desc">A simple monogram placeholder for Jebacyril Arockiaraj.</desc>
+  <rect width="420" height="420" fill="#ffffff"/>
+  <rect x="1" y="1" width="418" height="418" fill="#f4f1ea" stroke="#dcd8cf" stroke-width="2"/>
+  <circle cx="210" cy="164" r="66" fill="#0f6b61" opacity="0.92"/>
+  <path d="M96 354c18-76 62-114 114-114s96 38 114 114" fill="#0f6b61" opacity="0.92"/>
+  <text x="210" y="382" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#094d46">JA</text>
+</svg>
